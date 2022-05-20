@@ -1,0 +1,202 @@
+{
+    "portuguese": {
+        "lanNavbar": {
+            "projects":"Projetos",
+            "about":"Sobre",
+            "technologies":"Tecnologias",
+            "services":"Serviços",
+            "contact":"Contato"
+        },
+        "secProjects": {
+            "projects":"Projetos",
+            "view":"<i class='fas fa-plus'></i> Ver Projeto",
+            "whatis":"O que é este projeto?",
+            "whycreate":"Porque eu fiz este projeto?",
+            "technologies":"Tecnologias que eu usei para a criação deste projeto:",
+            "notAvaiable":"<i class='fa-solid fa-ban'></i> Infelizmente este projeto já não está mais no ar",
+            "project1": {
+                "project":"Plataforma de Reservas",
+                "whatis":"<strong>Plataforma de Reservas</strong> é um sistema de gestão para uma unidade hoteleira, nesta aplicação web pode gerir os quartos, clientes, reservas e agências de um hotel.",
+                "whycreate":"Este projecto começou como um projecto escolar, que mais tarde decidi finalizar e refinar.",
+                "btndoc":"<i class='fa-solid fa-book'></i> Documentação do Projeto",
+                "btnsee":"<i class='fa-solid fa-file'></i> Ver Projeto",
+                "btncode":"<i class='fa-solid fa-code'></i> Código"
+            },
+            "project2": {
+                "project":"SpaceBox",
+                "whatis":"<strong>ScaceBox</strong> é um projecto de código aberto que criei com o objectivo de tornar a astronomia mais acessível a todos.",
+                "whycreate":"Criei este projecto porque adoro tudo relacionado com a astronomia, também porque quando comecei a pensar em produzir o projecto tinha acabado de aprender a usar <strong>JSON Apis</strong> e pensei que era um bom projecto para pôr em prática o que tinha aprendido.",
+                "tools":"SpaceBox tem um conjunto de vários instrumentos de astronomia que são úteis para melhorar os conhecimentos de astronomia.",
+                "contributeFeatures":"Qualquer pessoa que queira contribuir com uma nova funcionalidade para a SpaceBox é bem-vinda a fazê-lo, é importante para mim melhorar o projecto.",
+                "btndoc":"<i class='fa-solid fa-book'></i> Documentação do Projeto",
+                "btnsee":"<i class='fa-solid fa-file'></i> Ver Projeto",
+                "btncode":"<i class='fa-solid fa-code'></i> Código"
+            },
+            "project3": {
+                "project":"União Cósmica Website",
+                "whatis":"<strong>União Cósmica Website</strong> é um site que criei para a União Cósmica, uma comunidade portuguesa de jogadores, além do site criei também um portal de notícias e um sistema para os administradores gerirem os eventos da comunidade.",
+                "whycreate":"A pedido do líder da comunidade, comecei a desenvolver este projecto.",
+                "btndoc":"<i class='fa-solid fa-book'></i> Documentação do Projeto",
+                "btnsee":"<i class='fa-solid fa-file'></i> Ver Projeto",
+                "btncode":"<i class='fa-solid fa-code'></i> Código"
+            },
+            "project4": {
+                "project":"Portugle",
+                "whatis":"<strong>Portugle</strong> é um clone de um jogo de palavras chamado wordle, mas ao contrário do jogo original, este só tem palavras da língua portuguesa.",
+                "whycreate":"Porque considerei o jogo interessante e divertido, e para treinar as minhas capacidades de JavaScript.",
+                "btndoc":"<i class='fa-solid fa-book'></i> Documentação do Projeto",
+                "btnsee":"<i class='fa-solid fa-file'></i> Ver Projeto",
+                "btncode":"<i class='fa-solid fa-code'></i> Código"
+            }
+        },
+        "secAbout": {
+            "about":"Sobre",
+            "text1":"Olá o meu nome é Mário Ponte, tenho mais de 3 anos de experiência em programação e pelo caminho tenho programado em C, JAVA, PHP, JavaScript e Python, mas neste momento estou apenas focado no Desenvolvimento Web.",
+            "text2":"Sou apaixonado por tudo o que envolve a engenharia informática e estou sempre interessado em aprender novas tecnologias.",
+            "btncv":"<i class='fa-solid fa-file-arrow-down'></i> Baixe o meu CV"
+        },
+        "secTechnologies": {
+            "technologies":"Tecnologias",
+            "click":"Clique numa das tecnologias para ver mais informações:",
+            "html5":"HTML5",
+            "texthtml5":"HTML5(Hyper Text Markup Language 5) é uma linguagem de marcação para a World Wide Web e é uma tecnologia chave da Internet, originalmente proposta pela Opera Software. É a quinta versão da linguagem HTML.",
+            "css3":"CSS3",
+            "textcss3":"CSS3 é a terceira e mais recente versão das famosas Folhas de Estilo em Cascata, através da qual se definem estilos para um projeto web. Com efeitos de transição, imagem, imagem de fundo, e outros, pode criar estilos únicos para os seus projetos web, alterando muitos aspectos de design do layout da página.",
+            "JavaScript":"JavaScript",
+            "textJS":"O JavaScript é uma linguagem de programação estruturada, de alto nível, interpretada com tipagem dinâmica fraca e multi-paradigma. Juntamente com HTML e CSS, o JavaScript é uma das três tecnologias centrais da World Wide Web.",
+            "php":"PHP",
+            "textPHP":"PHP é uma linguagem de interpretação livre originalmente utilizada apenas para o desenvolvimento de aplicações actuais e activas do lado do servidor capazes de gerar conteúdo dinâmico na World Wide Web.",
+            "bootstrap":"Bootstrap",
+            "textBootstrap":"Bootstrap é uma estrutura web de código aberto para desenvolver componentes front-end e de interface para websites e aplicações web utilizando HTML, CSS e JavaScript, baseada em modelos de design para tipografia, melhorando a experiência do utilizador num website de fácil utilização e resposta."
+        },
+        "secServices": {
+            "services":"Serviços",
+            "title1":"Criação de Sistemas de Gestão",
+            "text1":"Posso criar uma aplicação web para gerir os seus dados comerciais.",
+            "title2":"Criação de Websites",
+            "text2":"Posso criar um website para a sua marca/empresa com todas as características que desejar.",
+            "title3":"E-Commerce",
+            "text3":"Posso criar uma loja online para o seu negócio com todas as ferramentas de que necessita.",
+            "title4":"Design Gráfico",
+            "text4":"Não é o meu foco principal, mas tenho experiência na criação de artes gráficas. Posso criar logótipos, banners, panfletos, etc."
+        },
+        "secContact": {
+            "contact":"Contacte-me",
+            "phone":"Telefone",
+            "name":"<i class='fa-solid fa-user'></i> Nome",
+            "phoneNum":"<i class='fa-solid fa-phone'></i> Número de telefone",
+            "message":"<i class='fa-solid fa-message'></i> Mensagem",
+            "btnsub":"<i class='fa-solid fa-paper-plane'></i> Enviar",
+            "confirm":"Tem a certeza de que quer enviar esta mensagem?"
+        },
+        "secSocialMedia": {
+            "location":"Localização",
+            "socialmedia":"Ao redor da web",
+            "questionsTitle":"Duvidas",
+            "questionsText":"Se precisar de alguma coisa ou tiver alguma dúvida sobre o meu trabalho, por favor contacte-me."
+        },
+        "secFooter": {
+            "footer":"<small>&copy; Todos os direitos reservados a Mário Ponte - 2022</small>"
+        }
+    },
+    "english": {
+        "lanNavbar": {
+            "projects":"Projects",
+            "about":"About",
+            "technologies":"Technologies",
+            "services":"Services",
+            "contact":"Contact"
+        },
+        "secProjects": {
+            "projects":"Projects",
+            "view":"<i class='fas fa-plus'></i> View Project",
+            "whatis":"What is this project?",
+            "whycreate":"Why did I create this project?",
+            "technologies":"Technologies I used for the creation of this project:",
+            "notAvaiable":"<i class='fa-solid fa-ban'></i> Unfortunately this project is no longer on the air",
+            "project1": {
+                "project":"Booking Platform",
+                "whatis":"<strong>Booking Platform</strong> is a management system for a hotel unit, in this web application you can manage the hotel rooms, clients, reservations and agencies.",
+                "whycreate":"This project started out as a school project, which I later decided to finalize and refine.",
+                "btndoc":"<i class='fa-solid fa-book'></i> Documentation of the project",
+                "btnsee":"<i class='fa-solid fa-file'></i> See Project",
+                "btncode":"<i class='fa-solid fa-code'></i> Code"
+            },
+            "project2": {
+                "project":"SpaceBox",
+                "whatis":"<strong>ScaceBox</strong> is an open-source project that I created with the objective of making astronomy more accessible to everyone.",
+                "whycreate":"I created this project because I love everything related to astronomy, also because when I started thinking about producing the project I had just learned to use <strong>JSON Apis</strong> and thought it was a good project to put what I had learned into practice.",
+                "tools":"SpaceBox has a set of various astronomy tools that are useful for improving knowledge of astronomy.",
+                "contributeFeatures":"Anyone who wants to contribute a new feature to SpaceBox is welcome to do so, it is important for me to improve the project.",
+                "btndoc":"<i class='fa-solid fa-book'></i> Documentation of the project",
+                "btnsee":"<i class='fa-solid fa-file'></i> See Project",
+                "btncode":"<i class='fa-solid fa-code'></i> Code"
+            },
+            "project3": {
+                "project":"União Cósmica Website",
+                "whatis":"<strong>União Cósmica Website</strong> is a website that I created for União Cósmica, a Portuguese gamer community, besides the site I also created a news portal and a system for the administrators to manage the community events.",
+                "whycreate":"At the request of the community leader I started to develop this project.",
+                "btndoc":"<i class='fa-solid fa-book'></i> Documentation of the project",
+                "btnsee":"<i class='fa-solid fa-file'></i> See Project",
+                "btncode":"<i class='fa-solid fa-code'></i> Code"
+            },
+            "project4": {
+                "project":"Portugle",
+                "whatis":"<strong>Portugle</strong> is a clone of a words game called wordle, but unlike the original game, this one only has words from the Portuguese language.",
+                "whycreate":"Because I considered the game to be interesting and fun, and to train my JavaScript skills.",
+                "btndoc":"<i class='fa-solid fa-book'></i> Documentation of the project",
+                "btnsee":"<i class='fa-solid fa-file'></i> See Project",
+                "btncode":"<i class='fa-solid fa-code'></i> Code"
+            }
+        },
+        "secAbout": {
+            "about":"About",
+            "text1":"Hello my name is Mário Ponte, I have more than 3 years of experience with programming and along the way I have programmed in C, JAVA, PHP, JavaScript and Python, but right now I am only focused on Web Development.",
+            "text2":"I am passionate about everything that involves the computer science and I am always interested in learning new technologies.",
+            "btncv":"<i class='fa-solid fa-file-arrow-down'></i> Download my CV"
+        },
+        "secTechnologies": {
+            "technologies":"Technologies",
+            "click":"Click on one of the technologies to see more information:",
+            "html5":"HTML5",
+            "texthtml5":"HTML5(Hyper Text Markup Language 5) is a markup language for the World Wide Web and is a key Internet technology, originally proposed by Opera Software. It is the fifth version of the HTML language.",
+            "css3":"CSS3",
+            "textcss3":"CSS3 is the third and newest version of the famous Cascading Style Sheets, through which you define styles for a web project. With transition effects, image, background image, and others, you can create unique styles for your web projects, changing many design aspects of the page layout.",
+            "JavaScript":"JavaScript",
+            "textJS":"JavaScript is a structured, high-level scripting, interpreted programming language with weak dynamic typing and multi-paradigm. Along with HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web.",
+            "php":"PHP",
+            "textPHP":"PHP is a free interpreted language originally used only for the development of present and active server-side applications capable of generating dynamic content on the World Wide Web.",
+            "bootstrap":"Bootstrap",
+            "textBootstrap":"Bootstrap is an open source web framework for developing front-end and interface components for websites and web applications using HTML, CSS and JavaScript, based on design templates for typography, improving the user experience on a user-friendly and responsive website."
+        },
+        "secServices": {
+            "services":"Services",
+            "title1":"Creation of Management Systems",
+            "text1":"I can create a web application for managing your business data.",
+            "title2":"Creation of Websites",
+            "text2":"I can create a website for your brand/company with all the features you want.",
+            "title3":"E-Commerce",
+            "text3":"I can create an online store for your business with all the tools you need.",
+            "title4":"Graphic Design",
+            "text4":"Not my main focus, but I have experience in creating graphic arts. I can create logos, banners, flyers, etc."
+        },
+        "secContact": {
+            "contact":"Contact me",
+            "phone":"Phone",
+            "name":"<i class='fa-solid fa-user'></i> Name",
+            "phoneNum":"<i class='fa-solid fa-phone'></i> Phone number",
+            "message":"<i class='fa-solid fa-message'></i> Message",
+            "btnsub":"<i class='fa-solid fa-paper-plane'></i> send",
+            "confirm":"Are you sure you want to send this message?"
+        },
+        "secSocialMedia": {
+            "location":"Location",
+            "socialmedia":"Around the web",
+            "questionsTitle":"Questions",
+            "questionsText":"If you need anything or have any questions about my work, please contact me."
+        },
+        "secFooter": {
+            "footer":"<small>&copy; All Rights Reserved to Mário Ponte - 2022</small>"
+        }
+    }
+}
