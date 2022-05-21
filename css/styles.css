@@ -412,6 +412,38 @@
     margin-bottom: 24px;
   }
 
+  #servicesTitle1{
+    text-align: center !important;
+  }
+
+  #servicesText1{
+    text-align: center !important;
+  }
+
+  #servicesTitle2{
+    text-align: center !important;
+  }
+
+  #servicesText2{
+    text-align: center !important;
+  }
+
+  #servicesTitle3{
+    text-align: center !important;
+  }
+
+  #servicesText3{
+    text-align: center !important;
+  }
+
+  #servicesTitle4{
+    text-align: center !important;
+  }
+
+  #servicesText4{
+    text-align: center !important;
+  }
+
   .techLogo{
     display: inline-block;
     font-size: 2rem;
@@ -501,6 +533,22 @@
 }
 
 @media only screen and (max-width: 480px) {
+
+  #servicesText1{
+    font-size: 16px !important;
+  }
+
+  #servicesText2{
+    font-size: 16px !important;
+  }
+
+  #servicesText3{
+    font-size: 16px !important;
+  }
+
+  #servicesText4{
+    font-size: 16px !important;
+  }
   
   #contactForm{
     width: 80vw;
@@ -11990,7 +12038,7 @@ html {
   cursor: pointer;
   position: relative;
   display: block;
-  max-width: 25rem;
+  max-width: 30rem;
   border-radius: 0.5rem;
   overflow: hidden;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;

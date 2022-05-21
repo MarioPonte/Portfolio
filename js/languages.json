@@ -47,6 +47,14 @@
                 "btndoc":"<i class='fa-solid fa-book'></i> Documentação do Projeto",
                 "btnsee":"<i class='fa-solid fa-file'></i> Ver Projeto",
                 "btncode":"<i class='fa-solid fa-code'></i> Código"
+            },
+            "project5": {
+                "project":"Netflix Pagina Clone",
+                "whatis":"Um clone da página inicial da Netflix Portugal, <strong>Não criei este design</strong>, apenas tentei replica-lo.",
+                "whycreate":"Criei este projecto apenas para treinar os meus conhecimentos de HTML5 e CSS3 e para me desafiar a mim próprio a melhorar os meus paterns de design. Este projecto foi apenas para pôr em prática as minhas competências, sem querer beneficiar de forma alguma do design feito pelo criador da página inicial da Netflix Portugal.",
+                "btndoc":"<i class='fa-solid fa-book'></i> Documentação do Projeto",
+                "btnsee":"<i class='fa-solid fa-file'></i> Ver Projeto",
+                "btncode":"<i class='fa-solid fa-code'></i> Código"
             }
         },
         "secAbout": {
@@ -144,6 +152,14 @@
                 "project":"Portugle",
                 "whatis":"<strong>Portugle</strong> is a clone of a words game called wordle, but unlike the original game, this one only has words from the Portuguese language.",
                 "whycreate":"Because I considered the game to be interesting and fun, and to train my JavaScript skills.",
+                "btndoc":"<i class='fa-solid fa-book'></i> Documentation of the project",
+                "btnsee":"<i class='fa-solid fa-file'></i> See Project",
+                "btncode":"<i class='fa-solid fa-code'></i> Code"
+            },
+            "project5": {
+                "project":"Netflix Clone Page",
+                "whatis":"A clone of the Netflix Portugal homepage, <strong>I didn't create this design</strong>, I just tried to make a replica.",
+                "whycreate":"I created this project only to train my HTML5 and CSS3 skills and to challenge myself to improve my design paterns. This project was only to put my skills in practice, without wanting to benefit in any way from the design made by the creator of the Netflix Portugal homepage.",
                 "btndoc":"<i class='fa-solid fa-book'></i> Documentation of the project",
                 "btnsee":"<i class='fa-solid fa-file'></i> See Project",
                 "btncode":"<i class='fa-solid fa-code'></i> Code"
