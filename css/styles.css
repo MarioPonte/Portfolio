@@ -406,6 +406,10 @@
 }
 
 @media only screen and (max-width: 991px) {
+
+  #lead1,#lead2{
+    text-align: center !important;
+  }
   
   .servicesIcon{
     margin: auto;
