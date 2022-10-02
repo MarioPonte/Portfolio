@@ -200,6 +200,13 @@ async function getDados() {
         $('.btnModal1').html(pegueiDados.portuguese.secProjects.project5.btnsee);
         $('.btnModal2').html(pegueiDados.portuguese.secProjects.project5.btncode);
 
+        $('#portfolioModalTitle6').html(pegueiDados.portuguese.secProjects.project6.project);
+        $('#whatisText6').html(pegueiDados.portuguese.secProjects.project6.whatis);
+        $('#whycreateText6').html(pegueiDados.portuguese.secProjects.project6.whycreate);
+        $('.btnModalDoc').html(pegueiDados.portuguese.secProjects.project6.btndoc);
+        $('.btnModal1').html(pegueiDados.portuguese.secProjects.project6.btnsee);
+        $('.btnModal2').html(pegueiDados.portuguese.secProjects.project6.btncode);
+
         // Section About
 
         document.getElementById("titleAbout").innerHTML = pegueiDados.portuguese.secAbout.about;
@@ -308,6 +315,13 @@ async function getDados() {
         $('.btnModalDoc').html(pegueiDados.english.secProjects.project5.btndoc);
         $('.btnModal1').html(pegueiDados.english.secProjects.project5.btnsee);
         $('.btnModal2').html(pegueiDados.english.secProjects.project5.btncode);
+
+        $('#portfolioModalTitle6').html(pegueiDados.english.secProjects.project6.project);
+        $('#whatisText6').html(pegueiDados.english.secProjects.project6.whatis);
+        $('#whycreateText6').html(pegueiDados.english.secProjects.project6.whycreate);
+        $('.btnModalDoc').html(pegueiDados.english.secProjects.project6.btndoc);
+        $('.btnModal1').html(pegueiDados.english.secProjects.project6.btnsee);
+        $('.btnModal2').html(pegueiDados.english.secProjects.project6.btncode);
 
         // Section About
 

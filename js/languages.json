@@ -55,6 +55,14 @@
                 "btndoc":"<i class='fa-solid fa-book'></i> Documentação do Projeto",
                 "btnsee":"<i class='fa-solid fa-file'></i> Ver Projeto",
                 "btncode":"<i class='fa-solid fa-code'></i> Código"
+            },
+            "project6": {
+                "project":"Gerador de QRCodes",
+                "whatis":"Um gerador de QRCodes, cria um QRCode único para um link introduzido pelo utilizador.",
+                "whycreate":"Este era um projecto em que estava interessado porque o utilizei para aprender como funciona a tecnologia QRCode.",
+                "btndoc":"<i class='fa-solid fa-book'></i> Documentação do Projeto",
+                "btnsee":"<i class='fa-solid fa-file'></i> Ver Projeto",
+                "btncode":"<i class='fa-solid fa-code'></i> Código"
             }
         },
         "secAbout": {
@@ -160,6 +168,14 @@
                 "project":"Netflix Clone Page",
                 "whatis":"A clone of the Netflix Portugal homepage, <strong>I didn't create this design</strong>, I just tried to make a replica.",
                 "whycreate":"I created this project only to train my HTML5 and CSS3 skills and to challenge myself to improve my design paterns. This project was only to put my skills in practice, without wanting to benefit in any way from the design made by the creator of the Netflix Portugal homepage.",
+                "btndoc":"<i class='fa-solid fa-book'></i> Documentation of the project",
+                "btnsee":"<i class='fa-solid fa-file'></i> See Project",
+                "btncode":"<i class='fa-solid fa-code'></i> Code"
+            },
+            "project6": {
+                "project":"QRCode Generator",
+                "whatis":"A QRCode generator, creates a unique QRCode for a link entered by the user.",
+                "whycreate":"This was a project I was interested in doing because I used it to learn how the QRCode technology works.",
                 "btndoc":"<i class='fa-solid fa-book'></i> Documentation of the project",
                 "btnsee":"<i class='fa-solid fa-file'></i> See Project",
                 "btncode":"<i class='fa-solid fa-code'></i> Code"
